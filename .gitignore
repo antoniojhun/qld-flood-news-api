@@ -1,10 +1,15 @@
-
 # BUILD FILESK
 /bower_components/*
 /node_modules/*
 /build/*
 /yarn-error.log
 /npm-debug.log
+
+# BUILD FILES
+node_modules
+yarn-error.log
+npm-debug.log
+package-lock.json
 
 # MISC FILES
 .cache
@@ -24,8 +29,6 @@
 !.vscode/extensions.json
 config.codekit3
 prepros-6.config
-package-lock.json
-node_modules
 # *.env
 # .env*
 *.local
