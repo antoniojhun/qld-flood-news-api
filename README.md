@@ -19,6 +19,12 @@ npm run start
 
 3. Open [http://localhost:8000/news](http://localhost:8000/news) with your browser to see the results of the scrape in your terminal. You can also used certain paramters to get news from individual sources.
 
+4. Try [http://localhost:8000/news/7NEWS](http://localhost:8000/news/7NEWS) to filter down to specific publication or article
+
+
+## To do
+[ ] Add image source
+[ ] Add article excerpt
 
 ## MIT Licence
 
