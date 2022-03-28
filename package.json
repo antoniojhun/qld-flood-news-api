@@ -1,0 +1,17 @@
+{
+	"name": "climate-change-api",
+	"version": "1.0.0",
+	"description": "Scraping API for Climate Change",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"author": "Antoino Jhun",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.21.4",
+		"cheerio": "^1.0.0-rc.10",
+		"express": "^4.17.3",
+		"nodemon": "^2.0.15"
+	}
+}
